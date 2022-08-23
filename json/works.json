@@ -1,0 +1,502 @@
+[
+  {
+    "title": "Hama Showreel",
+    "img": "/images/works/hama_showreel/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/hama_showrel.mp4",
+    "backstage": {
+      "videos": [],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Vfx Breakdown",
+    "img": "/images/works/vfx_breakdown/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/vfx_breakdown.mp4",
+    "backstage": {
+      "videos": [],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "TISHKNET",
+    "img": "/images/works/tishknet/thumbnail.jpg",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/tishknet_moon.mp4",
+    "backstage": {
+      "videos": [],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Bathita 2",
+    "img": "/images/works/bathita_2/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/bathita_2.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Tinu",
+    "img": "/images/works/tinu/thumbnail.jpg",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/tinu.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "03 Internet",
+    "img": "/images/works/03_internet/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/03_internet.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Karwanchi",
+    "img": "/images/works/karwanchi/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/karwanchi.mp4",
+    "backstage": {
+      "videos": [],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Asiacell Genie",
+    "img": "/images/works/asiacell/thumbnail.jpg",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/asiacell_genie.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Boboto",
+    "img": "/images/works/boboto/thumbnail.jpg",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/boboto.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Tazej",
+    "img": "/images/works/tazej/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/tazej.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Olive",
+    "img": "/images/works/olive_2/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/olive_2.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Chaviland",
+    "img": "/images/works/chaviland/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/chaviland.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Olive Soap",
+    "img": "/images/works/olive/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/olive.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Korek Iraq",
+    "img": "/images/works/korek_iraq/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/korek_iraq.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Mahmood Milk",
+    "img": "/images/works/mahmood_milk/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/mahmood_milk.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Knowledge University",
+    "img": "/images/works/knowledge_uni/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/knowledge_university.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "TISHKNET 2",
+    "img": "/images/works/tishknet_animation/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/tishk_net_animation.mp4",
+    "backstage": {
+      "videos": [],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Bathita 3",
+    "img": "/images/works/bathita_3/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/bathita_2.mp4",
+    "backstage": {
+      "videos": [],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "ABC",
+    "img": "/images/works/abc/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/abc.mp4",
+    "backstage": {
+      "videos": [],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Alin",
+    "img": "/images/works/alin/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/alin.mp4",
+    "backstage": {
+      "videos": [],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Aciacell Snapchat",
+    "img": "/images/works/asiacell_snapchat/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/asiacell_snapchat.mp4",
+    "backstage": {
+      "videos": [],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Bakhtyary Rice 2",
+    "img": "/images/works/bakhtyary_rice_2/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/bakhtyary_rice_2.mp4",
+    "backstage": {
+      "videos": [],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Bathita 3",
+    "img": "/images/works/bathita_3/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/bathita_3.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Cihan Rice 2",
+    "img": "/images/works/cihan_rice_2/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/cihan_rice_2.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Fast link E-Sim",
+    "img": "/images/works/fastlink_esim/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/fastlink_esim.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Grand Millinium",
+    "img": "/images/works/grandmillinium/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/grand_milinium.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Fastlink Unlimited",
+    "img": "/images/works/fastlink_unlimited/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/fastlink_unlimited.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Hakim",
+    "img": "/images/works/hakim/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/hakim.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Life towers",
+    "img": "/images/works/life_towers/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/life_towers.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Mashhoor Rice",
+    "img": "/images/works/mashhoor_rice/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/mashhoor_rice.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "MG Car",
+    "img": "/images/works/mg_car/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/mg_car.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Qaiwan Hospital",
+    "img": "/images/works/qaiwan_hospital/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/qaiwan_hospital.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Qaiwan Plus Mall",
+    "img": "/images/works/qaiwan_plus_mall/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/qaiwan_plus_mall.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Tarin Net",
+    "img": "/images/works/tarin_net/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/tarin_net.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Family",
+    "img": "/images/works/family/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/family.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Korek",
+    "img": "/images/works/korek_internet/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/korek_internet.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Qaiwan Suli Heights",
+    "img": "/images/works/qaiwan_suli_height/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/qaiwan_suli_heights.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Zain",
+    "img": "/images/works/zain/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/zain.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Vestel Air",
+    "img": "/images/works/vestel_air/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/vestel_air.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  },
+  {
+    "title": "Vestel Washing Machine",
+    "img": "/images/works/vestel_washing_machine/thumbnail.png",
+    "mainVideo": "https://hama-group.s3.eu-central-1.amazonaws.com/vids/vestel_washing_machine.mp4",
+    "backstage": {
+      "videos": [
+        ""
+      ],
+      "images": []
+    },
+    "subtitle": "",
+    "description": ""
+  }
+]

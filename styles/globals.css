@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Helvetica black";
+  src: url("/fonts/HELVETICALTPRO-BLACKCOND.OTF");
+}
+
+@font-face {
+  font-family: "Helvetica bold";
+  src: url("/fonts/HELVETICALTPRO-BOLDCOND.OTF");
+}
+
+@font-face {
+  font-family: "Helvetica condensed";
+  src: url("/fonts/HELVETICALTPRO-CONDENSED.OTF");
+}
+
+@font-face {
+  font-family: "Helvetica light";
+  src: url("/fonts/HELVETICALTPRO-LIGHTCOND.OTF");
+}
+
+@font-face {
+  font-family: "Helvetica pro";
+  src: url("/fonts/HELVETICANEUELTPRO-LT.OTF");
+}
+
+@font-face {
+  font-family: "Helvetica roman";
+  src: url("/fonts/HELVETICANEUELTPRO-ROMAN.OTF");
+}
+
+html {
+  font-family: "Helvetica condensed", Helvetica, Arial, sans-serif;
+  scroll-behavior: smooth;
+}
+
+.moving {
+  animation: moving 3s ease-in-out infinite;
+}
+
+@keyframes moving {
+  0% {
+    transform: translate(0, 0);
+  }
+  50% {
+    transform: translate(0, 10px);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
