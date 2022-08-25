@@ -17,7 +17,7 @@ const PageOne: FC = () => {
         backgroundPosition: 'center',
         width:'full',
       }}
-      className="h-[400px]  sm:min-h-screen text-white "
+      className="min-h-screen text-white "
     >
       {/* <Container className="pt-40">
         <div className="text-4xl lg:text-6xl font-helvetica-black font-bold uppercase">
