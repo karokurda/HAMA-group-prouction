@@ -81,8 +81,9 @@ const Offices = () => {
   }
 
   return (
-    <motion.div className="min-h-screen relative">
-      <Container className="min-h-screen flex justify-center items-center py-0">
+    
+    <motion.div className="min-w-screen relative ">
+      <Container className="h-[250px] sm:min-h-screen  flex justify-center items-center ">
         <motion.img
           initial={{
             width: '50%',
@@ -95,8 +96,8 @@ const Offices = () => {
                 ? '50%'
                 : '30%',
           }}
-          //
-          className="h-screen object-cover absolute left-0"
+          
+          className=" h-screen object-cover absolute left-0"
           src="/images/about/office-left.jpg"
           alt="waiting"
           style={{ zIndex: -999 }}
@@ -113,7 +114,7 @@ const Offices = () => {
                 ? '50%'
                 : '30%',
           }}
-          className="w-1/2 h-screen object-cover absolute right-0"
+          className=" h-screen object-cover absolute right-0"
           src="/images/about/office-right.jpg"
           alt="waiting"
           style={{ zIndex: -999 }}
@@ -127,7 +128,7 @@ const Offices = () => {
             opacity: selectedSide !== 'none' ? 0 : 1,
           }}
           //
-          className="border-2 px-6 py-10 lg:border-8 text-4xl max-w-lg cursor-pointer select-none flex flex-col font-bold lg:text-6xl uppercase text-primary-yellow-1 bg-primary-gray-1 border-primary-yellow-1 lg:px-10 lg:py-20"
+          className="border-1 px-6 py-5 lg:border-4 text-2xl max-w-base cursor-pointer select-none flex flex-col font-bold lg:text-6xl uppercase text-primary-yellow-1 bg-primary-gray-1 border-primary-yellow-1 lg:px-5 lg:py-10"
         >
           <span>Our</span>
           <span>offices</span>

@@ -16,7 +16,7 @@ const Sound = () => {
         
         
       }}
-      className="min-h-screen "
+      className="h-[250px] md:min-h-screen "
     >
       
       {/* <Container className="min-h-screen flex flex-col justify-center">

@@ -14,10 +14,10 @@ const PageOne: FC = () => {
         backgroundImage:
           'url(https://hama-group.s3.eu-central-1.amazonaws.com/images/IMG_9542+copy.jpg)',
           backgroundSize: 'cover',
-          backgroundPosition: lg ? 'right' : '620px',
-          width:'auto ',
+        backgroundPosition: 'center',
+        width:'full',
       }}
-      className="min-h-screen text-white "
+      className="h-[400px]  sm:min-h-screen text-white "
     >
       {/* <Container className="pt-40">
         <div className="text-4xl lg:text-6xl font-helvetica-black font-bold uppercase">

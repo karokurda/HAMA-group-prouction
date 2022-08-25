@@ -48,7 +48,7 @@ const Header = () => {
         <div>
           <Navbar />
 
-          <div className="absolute uppercase 2xl:text-6xl lg:mb-20  font-extrabold text-white font-helvetica-black bottom-5 xl:bottom-15 md:text-base  xl:text-4xl  lg:text-base">
+          <div className="absolute uppercase 2xl:text-6xl lg:mb-20  font-extrabold text-white font-helvetica-black bottom-5 xl:bottom-15  text-xs md:text-lg  xl:text-4xl  lg:text-lg ">
             <h2>SEE</h2>
             <h2>Our</h2>
             <h2>Demo</h2>
