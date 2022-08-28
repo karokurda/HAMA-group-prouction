@@ -2,7 +2,7 @@ import PageOne from './Content/pages/PageOne'
 
 const Slider = () => {
   return (
-    <div className="min-h-screen relative">
+    <div className="w-full relative">
       {/* <LeftButton
         onClick={decreaseHandler}
         isActive={page > 0 ? true : false}

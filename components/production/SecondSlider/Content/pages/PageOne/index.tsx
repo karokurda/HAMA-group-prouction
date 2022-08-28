@@ -12,12 +12,14 @@ const PageOne: FC = () => {
     <div
       style={{
         backgroundImage:
-          'url(https://hama-group.s3.eu-central-1.amazonaws.com/images/IMG_9542+copy.jpg)',
-          backgroundSize: 'cover',
+        'url(https://hama-group.s3.eu-central-1.amazonaws.com/images/IMG_9542+copy.jpg)',
+        backgroundSize: 'cover',
         backgroundPosition: 'center',
         width:'full',
+        
+        
       }}
-      className="h-[600px] sm:min-h-screen text-white bottom-0"
+      className="h-[250px] md:min-h-screen "
     >
       {/* <Container className="pt-40">
         <div className="text-4xl lg:text-6xl font-helvetica-black font-bold uppercase">
