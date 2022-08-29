@@ -39,7 +39,7 @@ const clients = [
   },
   {
     name: 'Korek',
-    img: '/images/clients/99.png',
+    img: '/images/clients/9.png',
   },
   {
     name: 'Grand Millennium',
