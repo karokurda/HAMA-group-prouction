@@ -83,7 +83,7 @@ const Offices = () => {
   return (
     
     <motion.div className="min-w-screen relative ">
-      <Container className="h-[250px] sm:min-h-screen  flex justify-center items-center ">
+      <Container className="h-full sm:min-h-screen  flex justify-center items-center ">
         <motion.img
           initial={{
             width: '50%',
@@ -97,7 +97,7 @@ const Offices = () => {
                 : '30%',
           }}
           
-          className=" h-screen object-cover absolute left-0"
+          className=" h-[250px] sm:min-h-screen  object-cover absolute left-0"
           src="/images/about/office-left.jpg"
           alt="waiting"
           style={{ zIndex: -999 }}
@@ -114,8 +114,8 @@ const Offices = () => {
                 ? '50%'
                 : '30%',
           }}
-          className=" h-screen object-cover absolute right-0"
-          src="/images/about/office-right.jpg"
+          className="h-[250px] sm:min-h-screen  object-cover absolute right-0"
+          src="/images/about/WhatsApp Image 2.jpeg"
           alt="waiting"
           style={{ zIndex: -999 }}
         />
