@@ -11,7 +11,7 @@ const OurServices = () => {
         </h2>
         <div className="h-[6px] w-10 bg-primary-orange-1 mt-3" />
         
-        <div className="uppercase xl:text-2xl font-Helvetica-bold text-white mt-5 align-text-left">
+        <div className="uppercase xl:text-2xl font-Helvetica-bold  text-white mt-5 align-text-left">
         <p  ><Link href="#videopr" replace>
          <a className='text-left'> video production</a>
         </Link>

@@ -4,85 +4,86 @@ import { useHoverDirty } from 'react-use'
 import Container from '../../layout/Container'
 
 const clients = [
+  
   {
     name: 'Asiacell',
-    img: '/images/clients/1.jpg',
+    img: '/images/clients/1.png',
   },
   {
     name: 'Sprite',
-    img: '/images/clients/2.jpg',
+    img: '/images/clients/2.png',
   },
   {
     name: 'Mercedes',
-    img: '/images/clients/3.jpg',
+    img: '/images/clients/3.png',
   },
   {
     name: 'UNDP',
-    img: '/images/clients/4.jpg',
+    img: '/images/clients/4.png',
   },
   {
     name: 'Zain',
-    img: '/images/clients/5.jpg',
+    img: '/images/clients/5.png',
   },
   {
     name: 'Hitachi',
-    img: '/images/clients/6.jpg',
+    img: '/images/clients/6.png',
   },
   {
     name: 'Lafarge',
-    img: '/images/clients/7.jpg',
+    img: '/images/clients/7.png',
   },
   {
     name: 'Ericsson',
-    img: '/images/clients/8.jpg',
+    img: '/images/clients/88.png',
   },
   {
     name: 'Korek',
-    img: '/images/clients/9.jpg',
+    img: '/images/clients/99.png',
   },
   {
     name: 'Grand Millennium',
-    img: '/images/clients/10.jpg',
+    img: '/images/clients/10.png',
   },
   {
     name: 'Ford',
-    img: '/images/clients/11.jpg',
+    img: '/images/clients/11.png',
   },
   {
     name: 'Mahmood tea',
-    img: '/images/clients/12.jpg',
+    img: '/images/clients/12.png',
   },
   {
     name: 'Ahmed tea',
-    img: '/images/clients/13.jpg',
+    img: '/images/clients/13.png',
   },
   {
     name: 'LG',
-    img: '/images/clients/14.jpg',
+    img: '/images/clients/14.png',
   },
   {
     name: 'Gazprom',
-    img: '/images/clients/15.jpg',
+    img: '/images/clients/15.png',
   },
   {
     name: 'Toshiba',
-    img: '/images/clients/16.jpg',
+    img: '/images/clients/116.png',
   },
   {
     name: 'Altunkaya',
-    img: '/images/clients/17.jpg',
+    img: '/images/clients/17.png',
   },
   {
     name: 'Kiri',
-    img: '/images/clients/18.jpg',
+    img: '/images/clients/18.png',
   },
   {
     name: 'Al Mudhish',
-    img: '/images/clients/19.jpg',
+    img: '/images/clients/19.png',
   },
   {
     name: 'Sanofi',
-    img: '/images/clients/20.jpg',
+    img: '/images/clients/20.png',
   },
 ]
 
@@ -125,10 +126,10 @@ const Clients = () => {
         </div>
         <div className="grid grid-cols-4 lg:grid-cols-5 w-full mt-10 lg:mt-0 gap-2 sm:gap-10">
           {clients.map((client) => (
-            <div className="h-20" key={client.name}>
+            <div className="h-20 " key={client.name}>
               <Image
-                width={400}
-                height={400}
+                width={50}
+                height={50}
                 src={client.img}
                 alt={client.name}
                 className="object-contain"
