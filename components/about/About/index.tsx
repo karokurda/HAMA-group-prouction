@@ -15,11 +15,11 @@ const About = () => {
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
       }}
-      className="min-h-screen font-helvetica-condensed"
+      className="min-w-screen sm:min-h-screen font-helvetica-condensed"
     >
       <Container className="flex items-center">
         <div className="lg:w-1/2" />
-        <div className="lg:w-1/2 flex items-center lg:mt-40 mt-10">
+        <div className="lg:w-1/2 flex items-center lg:mt-40 my-10">
           <div className="w-full">
             <HamaLogo className="-ml-3" color="black" />
 
