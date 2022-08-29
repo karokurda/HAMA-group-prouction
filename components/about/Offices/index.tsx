@@ -128,7 +128,7 @@ const Offices = () => {
             opacity: selectedSide !== 'none' ? 0 : 1,
           }}
           //
-          className="border-2 px-3 py-5 lg:border-4 text-2xl max-w-lg cursor-pointer select-none flex flex-col font-bold lg:text-6xl uppercase text-primary-yellow-1 bg-primary-gray-1 border-primary-yellow-1 lg:px-10 lg:py-20"
+          className="border-2 px-6 py-8 lg:border-4 text-2xl max-w-lg cursor-pointer select-none flex flex-col font-bold lg:text-6xl uppercase text-primary-yellow-1 bg-primary-gray-1 border-primary-yellow-1 lg:px-10 lg:py-20"
         >
           <span>Our</span>
           <span>offices</span>

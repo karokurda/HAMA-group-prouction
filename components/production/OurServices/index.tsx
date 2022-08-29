@@ -11,22 +11,22 @@ const OurServices = () => {
         </h2>
         <div className="h-[6px] w-10 bg-primary-orange-1 mt-3" />
         
-        <div className="uppercase xl:text-2xl font-Helvetica-bold text-white mt-5 ">
+        <div className="uppercase xl:text-2xl font-Helvetica-bold text-white mt-5 align-text-left">
         <p  ><Link href="#videopr" replace>
-         <a> video production</a>
+         <a className='text-left'> video production</a>
         </Link>
         <Link href="#VFXX" replace>
-         <a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;VFX</a>
+         <a className='text-left'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;VFX</a>
         </Link>
        
          <Link href="#ani" replace>
-         <a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Animation</a>
+         <a className='text-left'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Animation</a>
         </Link>
         <Link href="#soundd" replace>
-         <a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Sound</a>
+         <a className='text-left'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; Sound</a>
         </Link>
        <Link href="#photo" replace>
-         <a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  photo Graphic</a>
+         <a className='text-left'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   photo Graphic</a>
         </Link></p> 
           
         </div>
