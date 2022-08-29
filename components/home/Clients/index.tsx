@@ -67,7 +67,7 @@ const clients = [
   },
   {
     name: 'Toshiba',
-    img: '/images/clients/116.png',
+    img: '/images/clients/16.png',
   },
   {
     name: 'Altunkaya',
