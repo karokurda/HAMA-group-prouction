@@ -10,7 +10,7 @@ const Left = () => {
           VFX
         </h2>
         <div className="h-[6px] w-10 bg-primary-orange-1 xl:mt-3 " />
-        <p className="text-white xl:text-2xl">Talent is at the heart of our work, combined with technology. 
+        <p className="text-white xl:text-2xl mt-5">Talent is at the heart of our work, combined with technology. 
           Our team goes beyond imagination to bring out excellence in every piece of presented.</p>
 
       </Container>

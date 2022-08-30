@@ -5,7 +5,7 @@ import ListButton from './ListButton'
 
 const Navbar = () => {
   return (
-    <div className="flex items-center justify-between  ">
+    <div className="flex items-center justify-between bg-blend-black ">
       <Link href={'/'}>
         <a>
           <HamaLogo />

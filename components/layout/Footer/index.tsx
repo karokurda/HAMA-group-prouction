@@ -103,7 +103,7 @@ const Footer = () => {
         <ContactMobile />
         {/* copywrite logo */}
         <div className="text-sm text-gray-400 font-normal">
-          &copy; Copywrite Hama Group {new Date().getFullYear()}
+          &copy; Powered by HAMA Group {new Date().getFullYear()}
         </div>
       </Container>
     </div>

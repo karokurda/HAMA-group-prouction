@@ -11,7 +11,7 @@ const Left = () => {
 
         </h2>
         <div className="h-[6px] w-10 bg-primary-orange-1 xl:mt-3" />
-        <p className="text-white xl:text-2xl">HAMA Production works with the creative and imaginative 
+        <p className="text-white xl:text-2xl mt-5">HAMA Production works with the creative and imaginative 
           people. We work according to international level and our quality 
           is at its highest.
 

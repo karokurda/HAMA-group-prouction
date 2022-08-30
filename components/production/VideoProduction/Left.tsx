@@ -11,8 +11,8 @@ const Left = () => {
           PRODUCTION
 
         </h2>
-        <div className="h-[6px] w-10 bg-primary-orange-1 xl:mt-3" />
-        <p className="text-white xl:text-2xl">Our Army of experts will bring ideas to life through storytelling, 
+        <div className="h-[6px] w-10 bg-primary-orange-1 xl:mt-3 " />
+        <p className="text-white xl:text-2xl mt-5">Our Army of experts will bring ideas to life through storytelling, 
           picking moments and a vision for action.</p>
       </Container>
     </div>
