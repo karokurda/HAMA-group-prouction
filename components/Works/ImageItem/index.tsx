@@ -20,8 +20,9 @@ const ImageItem: FC<IImageItemProps> = ({ img, title }) => {
   }, [ref, size])
 
   return (
-    <Link href={`/works/${slugify(title, { lower: true })}`}>
+    <Link href={`/works/${slugify(title, { lower: true })}` } >
       <a>
+        
         <div
           ref={ref}
           style={{
@@ -53,6 +54,7 @@ const ImageItem: FC<IImageItemProps> = ({ img, title }) => {
           </div>
         </div>
       </a>
+     
     </Link>
   )
 }

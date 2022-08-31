@@ -16,6 +16,7 @@ const Navbar = () => {
         className="hidden lg:flex items-center font-helvetica-light tracking-widest justify-between gap-10 "
       >
         <LinkItem label="HOME" link="/" />
+        
         <LinkItem label="About Us" link="/about" />
         {/* <WhatWeDoButton /> */}
 

@@ -26,7 +26,7 @@ const OurServices = () => {
          <a className='text-left'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; Sound</a>
         </Link>
        <Link href="#photo" replace>
-         <a className='text-left'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   photo Graphic</a>
+         <a className='text-left'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   PhotoGraphy</a>
         </Link></p> 
           
         </div>

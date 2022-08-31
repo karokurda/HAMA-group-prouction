@@ -23,12 +23,12 @@ const OfficeItem: FC<{
   return (
     <div
       ref={ref}
-      className={`absolute hidden lg:flex items-center bottom-10 uppercase text-4xl font-extrabold cursor-pointer select-none text-white ${
-        position === 'left' ? 'left-20' : 'right-20'
+      className={`absolute text-base flex items-center bottom-5 uppercase lg:text-4xl font-extrabold cursor-pointer select-none text-white ${
+        position === 'left' ? 'left-2' : 'right-2'
       }`}
       onClick={onClick}
     >
-      <div className="hover:text-primary-yellow-1 duration-200">{title}</div>
+      <div className=" lg:hover:text-primary-yellow-1 duration-200">{title}</div>
       <Chevron hovered={hovered} />
     </div>
   )
@@ -82,8 +82,8 @@ const Offices = () => {
 
   return (
     
-    <motion.div className="min-w-screen relative ">
-      <Container className="h-full sm:min-h-screen  flex justify-center items-center ">
+    <motion.div className="min-h-screen relative ">
+      <Container className="min-h-screen  flex justify-center items-center ">
         <motion.img
           initial={{
             width: '50%',
@@ -97,7 +97,7 @@ const Offices = () => {
                 : '30%',
           }}
           
-          className=" h-[250px] sm:min-h-screen  object-cover absolute left-0"
+          className="h-screen  object-cover absolute left-0"
           src="/images/about/office-left.jpg"
           alt="waiting"
           style={{ zIndex: -999 }}
@@ -114,7 +114,7 @@ const Offices = () => {
                 ? '50%'
                 : '30%',
           }}
-          className="h-[250px] sm:min-h-screen  object-cover absolute right-0"
+          className="w-1/2 h-screen  object-cover absolute right-0"
           src="/images/about/WhatsApp Image 2.jpeg"
           alt="waiting"
           style={{ zIndex: -999 }}
@@ -137,7 +137,7 @@ const Offices = () => {
           />
         </motion.div>
         {/*  */}
-        <OfficeItem
+         <OfficeItem
           onClick={() => select('right')}
           position="right"
           title="Slemani Office"
@@ -147,7 +147,7 @@ const Offices = () => {
           position="left"
           title="Erbil Office"
         />
-      </Container>
+      </Container> 
     </motion.div>
   )
 }
