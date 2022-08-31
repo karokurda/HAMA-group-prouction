@@ -9,7 +9,8 @@ const Chevron: FC<{ hovered: boolean }> = ({ hovered }) => (
     className={`text-primary-yellow-1 duration-200 ${
       hovered ? 'translate-x-3' : ''
     }`}
-    size={60}
+    size={45}
+  
   />
 )
 
@@ -23,12 +24,12 @@ const OfficeItem: FC<{
   return (
     <div
       ref={ref}
-      className={`absolute text-base flex items-center bottom-5 uppercase lg:text-4xl font-extrabold cursor-pointer select-none text-white ${
-        position === 'left' ? 'left-2' : 'right-2'
+      className={`absolute text-xs flex items-center bottom-5 uppercase lg:text-4xl font-extrabold cursor-pointer select-none text-white ${
+        position === 'left' ? 'left-1' : 'right-1'
       }`}
       onClick={onClick}
     >
-      <div className=" lg:hover:text-primary-yellow-1 duration-200">{title}</div>
+      <div className=" lg:hover:text-primary-yellow-1 duration-200 ">{title}</div>
       <Chevron hovered={hovered} />
     </div>
   )
