@@ -42,10 +42,10 @@ const Sound = () => {
       </Container> */}
     </div>
     <Container className="">
-      <h1 className="uppercase text-4xl font-Helvetica-bold text-primary-orange-1 font-bold mt-5" >Sound</h1>
+      <h1 className="uppercase text-4xl font-Helvetica-bold text-primary-orange-1 font-bold mt-5 " >Sound</h1>
       <Underline color="orange" />
       <div className="text-white text-lg font-helvetica-light">
-          <p className="mt-3 xl:text-2xl ">
+          <p className="mt-3 xl:text-2xl my-20 ">
             Having the best studio and the best sound engineers makes
           
           

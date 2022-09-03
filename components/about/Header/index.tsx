@@ -28,7 +28,7 @@ const Header = () => {
         style={{
           zIndex: 9999,
         }}
-        className="text-xs mt-10 font-helvetica-light select-none absolute right-1 bottom-1 text-white"
+        className="text-xs mt-10 font-helvetica-light select-none absolute right-1 bottom-1  text-white"
       >
         Rawen Pasha
       </p>

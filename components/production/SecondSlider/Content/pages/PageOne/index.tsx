@@ -49,7 +49,7 @@ const PageOne: FC = () => {
           that HAMA Production team is really
           passionate about.</p>
         </div>
-        <div className="mt-10">
+        <div className="">
           <p>The best photographers in the country work with us to seize the
           moments that need to be kept forever. We provide photography
           services for service brand.</p>

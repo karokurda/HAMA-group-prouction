@@ -108,7 +108,7 @@ const Clients = () => {
             ref={ref}
             className="flex font-helvetica-pro font-light flex-col text-7xl"
           >
-            <div className="uppercase">
+            <div className="uppercase font-semibold">
               <h2>Our</h2>
               <h2>Clients</h2>
             </div>
@@ -124,7 +124,7 @@ const Clients = () => {
             </div> */}
           </div>
         </div>
-        <div className="grid grid-cols-4 lg:grid-cols-5 w-full mt-10 lg:mt-0 gap-2 sm:gap-10">
+        <div className="grid grid-cols-4  lg:grid-cols-5 w-full mt-10 lg:mt-0 gap-10 sm:gap-10">
           {clients.map((client) => (
             <div className="h-20 " key={client.name}>
               <Image
