@@ -3,7 +3,7 @@ import { FC } from 'react'
 import { Work } from '../../../types'
 import Navbar from '../../home/Navbar'
 import Container from '../../layout/Container'
-import Link from 'next/link'
+
 
 const Header: FC<{ work: Work }> = ({ work }) => {
   const { fullScreen, ref } = useFullScreen()
@@ -26,10 +26,10 @@ const Header: FC<{ work: Work }> = ({ work }) => {
       >
         <source src={work.mainVideo} type="video/mp4" />
       </video>
-      <a href="/#back" className='text-black bg-white  '
+      {/* <a href="/#back" className='text-black bg-white  '
       style={{
         zIndex: 999,
-      }}>Back</a>
+      }}>Back</a> */}
       <Container className="relative min-h-screen">
         <div>
           <Navbar />
