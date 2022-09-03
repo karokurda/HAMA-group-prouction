@@ -16,7 +16,7 @@ const Works = () => {
   }
 
   return (
-    <div className="min-h-screen bg-primary-gray-1 text-white " id='back'>
+    <div className="min-h-screen bg-primary-gray-1 text-white " id="back">
       <Container>
         <div>
           <div className="sm:hidden mt-5 uppercase font-helvetica-condensed text-3xl "  >

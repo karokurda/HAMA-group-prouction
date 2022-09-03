@@ -28,8 +28,8 @@ const Header: FC<{ work: Work }> = ({ work }) => {
       </video>
       <a href="/#back" className='text-black bg-white  '
       style={{
-        zIndex: 99,
-      }}>back</a>
+        zIndex: 999,
+      }}>Back</a>
       <Container className="relative min-h-screen">
         <div>
           <Navbar />
