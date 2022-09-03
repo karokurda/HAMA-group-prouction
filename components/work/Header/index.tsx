@@ -29,8 +29,8 @@ const Header: FC<{ work: Work }> = ({ work }) => {
         
       </video>
       <div>
-      <Link href={'/#back'}>
-      <a href="/#back" className='text-black bg-white'
+      <Link href={'/#back'} >
+      <a  className='text-black bg-white'
       style={{
         zIndex: 999,
       }}>Back</a>
