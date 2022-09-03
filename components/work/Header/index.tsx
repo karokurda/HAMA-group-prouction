@@ -26,10 +26,10 @@ const Header: FC<{ work: Work }> = ({ work }) => {
       >
         <source src={work.mainVideo} type="video/mp4" />
       </video>
-      {/* <a href="/#back" className='text-black bg-white  '
+      <a href="/#back" className='text-black bg-white  '
       style={{
         zIndex: 999,
-      }}>Back</a> */}
+      }}>Back</a>
       <Container className="relative min-h-screen">
         <div>
           <Navbar />
