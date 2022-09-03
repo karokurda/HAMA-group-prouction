@@ -3,6 +3,7 @@ import { FC } from 'react'
 import { Work } from '../../../types'
 import Navbar from '../../home/Navbar'
 import Container from '../../layout/Container'
+import Link from 'next/link'
 
 
 const Header: FC<{ work: Work }> = ({ work }) => {
@@ -25,18 +26,20 @@ const Header: FC<{ work: Work }> = ({ work }) => {
         
       >
         <source src={work.mainVideo} type="video/mp4" />
-      </video><div>
-      <a href="/#back" className='text-black bg-white  '
+        
+      </video>
+      <div>
+      <Link href={'/#back'}>
+      <a href="/#back" className='text-black bg-white'
       style={{
         zIndex: 999,
       }}>Back</a>
+      </Link>
       </div>
       <Container className="relative min-h-screen">
         <div>
           <Navbar />
-          
-
-         {/* <a href="back" className='text-white'>back</a> */}
+    
           <div className="absolute uppercase text-3xl md:text-5xl font-extrabold bottom-0 bg-white pt-5 pb-10 px-20">
             <h2>{work?.title}</h2>
           

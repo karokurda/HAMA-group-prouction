@@ -19,7 +19,7 @@ const Header = () => {
       <Container className="relative min-h-screen">
         <Navbar />
 
-        <div className="absolute uppercase font-helvetica-black left-0 bottom-20 p-5 text-7xl">
+        <div className="absolute uppercase font-helvetica-black left-0 sm:mt-50 md:bottom-0 p-5 text-6xl">
           <h2>The right</h2>
           <h2>Channel</h2>
           <h2>For the</h2>
