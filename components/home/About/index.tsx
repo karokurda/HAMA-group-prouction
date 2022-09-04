@@ -29,9 +29,13 @@ const About: FC<{ divRef: any }> = ({ divRef }) => {
             through execution and publishing
           </p> */}
           <p className="text-2xl mt-10 md:w-2/3 lg:w-1/2 font-light font-helvetica-condensed">
-            HAMA Production, part of HAMA Group, is a full-service production
-            company for high quality video and photo production, founded in
-            2006, as the first production house in Iraq.
+          HAMA Production, part of HAMA Group, is a full-service production 
+          company for high quality video and photo production, founded in
+           2006, as the first production house in Iraq. HAMA Production
+            has produced some of the most iconic TV Commercials and 
+            advertisements across Iraq with an extensive portfolio of 
+            recognizable and successful 
+          campaigns in the Kurdistan Region and Iraq.
           </p>
         </div>
 

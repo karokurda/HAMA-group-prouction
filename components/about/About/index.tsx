@@ -30,9 +30,12 @@ const About = () => {
 
             <div className="mt-10 text-xl lg:text-2xl text-primary-gray-1 flex flex-col gap-2">
               <p>
-                HAMA Production, part of HAMA Group, is a full-service
-                production company for high quality video and photo production,
-                founded in 2006, as the first production house in Iraq.
+              HAMA Production, part of HAMA Group, is a full-service production
+               company for high quality video and photo production, founded in 
+               2006, as the first production house in Iraq. HAMA Production has
+                produced some of the most iconic TV Commercials and advertisements 
+                across Iraq with an extensive portfolio of 
+              recognizable and successful campaigns in the Kurdistan Region and Iraq.
               </p>
             </div>
           </div>
