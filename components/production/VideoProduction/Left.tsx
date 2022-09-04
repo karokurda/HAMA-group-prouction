@@ -12,8 +12,9 @@ const Left = () => {
 
         </h2>
         <div className="h-[6px] w-10 bg-primary-orange-1 xl:mt-3 " />
-        <p className="text-white xl:text-2xl mt-5">Our Army of experts will bring ideas to life through storytelling, 
-          picking moments and a vision for action.</p>
+        <p className="text-white xl:text-2xl mt-5">Our Army of experts will bring ideas to life through storytelling, picking moments and a vision for action. 
+        We interpret your vision and bring it to life in memorable and impactful ways that communicate clearly and without fail. 
+</p>
       </Container>
     </div>
     </Container>

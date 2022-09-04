@@ -10,8 +10,9 @@ const Left = () => {
           VFX
         </h2>
         <div className="h-[6px] w-10 bg-primary-orange-1 xl:mt-3 " />
-        <p className="text-white xl:text-2xl mt-5">Talent is at the heart of our work, combined with technology. 
-          Our team goes beyond imagination to bring out excellence in every piece of presented.</p>
+        <p className="text-white xl:text-2xl mt-5">Talent is at the heart of our work, combined
+         with technology. Our team goes beyond imagination to bring out excellence in every piece of presented. Using state of the 
+        art technologies and our own experience, we can create smooth & impressive visual effects. </p>
 
       </Container>
     </div>

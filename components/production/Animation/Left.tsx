@@ -11,9 +11,10 @@ const Left = () => {
 
         </h2>
         <div className="h-[6px] w-10 bg-primary-orange-1 xl:mt-3" />
-        <p className="text-white xl:text-2xl mt-5">HAMA Production works with the creative and imaginative 
-          people. We work according to international level and our quality 
-          is at its highest.
+        <p className="text-white xl:text-2xl mt-5">HAMA Production works 
+        with creative and imaginative people. We work according to
+         international standards and our quality is at its highest. We have excelled in 2D,
+         3D and Stop-motion animated videos.
 
 We have excelled in 2D, 3D and Stop-motion.</p>
       </Container>

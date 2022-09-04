@@ -45,15 +45,16 @@ const PageOne: FC = () => {
       <Underline color="orange" />
       <div className="text-white text-lg font-helvetica-light xl:text-2xl">
       <div className="mt-5  font-helvetic-black ">
-          <p>Capturing beauty is something 
-          that HAMA Production team is really
-          passionate about.</p>
+          <p>Capturing beauty is something that the HAMA Production team is really
+            passionate about. The best photographers in the country work with us
+             to seize the moments that need to be kept forever.
+             We provide photography services for service brand</p>
         </div>
-        <div className="">
+        {/* <div className="">
           <p>The best photographers in the country work with us to seize the
           moments that need to be kept forever. We provide photography
           services for service brand.</p>
-        </div>
+        </div> */}
 
         </div>
     </Container>
