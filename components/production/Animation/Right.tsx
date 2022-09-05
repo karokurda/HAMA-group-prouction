@@ -7,14 +7,14 @@ const Right = () => {
     <div onClick={fullScreen} className="w-full" id="ani">
       <video
         ref={ref}
-        className=" xl:w-full h-full object-cover  "
+        className=" w-full xl:h-full object-cover "
         autoPlay
         muted
         loop
         playsInline
         id="animation video"
         style={{
-          zIndex: 999,
+          zIndex: -999,
         }}
       >
         <source

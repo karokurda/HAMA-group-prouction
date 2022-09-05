@@ -11,12 +11,12 @@ const Right = () => {
     >
       <video
         ref={ref}
-        className="xl:w-full h-full object-cover "
+        className="w-full  object-cover "
         autoPlay
         muted
         loop
         style={{
-          zIndex: 999,
+          zIndex: -999,
         }}
         playsInline
         poster="/production/outside.jpg"

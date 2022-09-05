@@ -5,7 +5,6 @@ const  Right = () => {
 
   return (
     <div onClick={fullScreen} className="w-full" id="videopr">
-        
       <video
         ref={ref}
         className="w-full h-full object-cover "
