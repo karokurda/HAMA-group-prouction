@@ -28,16 +28,21 @@ const Header: FC<{ work: Work }> = ({ work }) => {
         <source src={work.mainVideo} type="video/mp4" />
         
       </video>
-      <div className=' w-10 h-6 text-black rounded-xl text-center bg-white '>
+      
       
       <Link href={'/#back'} >
-        
-      <a 
-      style={{
-        zIndex: 999,
-      }}>back</a>
+        <img src="https://hama-group.s3.eu-central-1.amazonaws.com/images/back-icon-1.png" className=' w-30 h-10 cursor-pointer '/>
+      {/* <a 
+       style={{
+        backgroundImage:
+          'url(https://hama-group.s3.eu-central-1.amazonaws.com/images/back-icon.png)',
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        width:'full',
+        zIndex:999,
+      }}>hello world</a> */}
       </Link>
-      </div>
+      
       <Container className="relative min-h-screen">
         <div>
           <Navbar />
