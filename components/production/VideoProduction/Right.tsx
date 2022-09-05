@@ -8,7 +8,7 @@ const  Right = () => {
         
       <video
         ref={ref}
-        className="xl:w-full h-full object-cover "
+        className="w-full h-full object-cover "
         autoPlay
         muted
         loop
