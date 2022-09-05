@@ -43,7 +43,7 @@ const Works = () => {
             </div>
             {works.map((item) => (
               
-              <ImageItem key={item.img} img={item.img} title={item.title} />
+              <ImageItem key={item.img} img={item.img} title={item.title}  />
             ))}
           </div>
           {works.length < workItems.length && (

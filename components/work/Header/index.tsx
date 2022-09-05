@@ -29,9 +29,9 @@ const Header: FC<{ work: Work }> = ({ work }) => {
         
       </video>
       
-      
+      <div className='bg-primary-yellow-1 h-10'>
       <Link href={'/#back'} >
-        <img src="https://hama-group.s3.eu-central-1.amazonaws.com/images/back-icon-1.png" className=' w-30 h-10 cursor-pointer '/>
+        <img src="https://hama-group.s3.eu-central-1.amazonaws.com/images/back-icon.png" className=' w-15 h-9 cursor-pointer mx-1 '/>
       {/* <a 
        style={{
         backgroundImage:
@@ -42,7 +42,7 @@ const Header: FC<{ work: Work }> = ({ work }) => {
         zIndex:999,
       }}>hello world</a> */}
       </Link>
-      
+      </div>
       <Container className="relative min-h-screen">
         <div>
           <Navbar />

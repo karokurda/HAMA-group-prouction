@@ -11,7 +11,7 @@ const Header = () => {
         backgroundImage:
           'url(https://hama-group.s3.eu-central-1.amazonaws.com/images/shutterstock_227118130+copy.jpg)',
         backgroundSize: 'cover',
-        backgroundPosition: lg ? 'center' : '-420px',
+        backgroundPosition: lg ? 'left' : '-520px',
         backgroundRepeat: 'no-repeat',
       }}
       className="min-h-screen"
