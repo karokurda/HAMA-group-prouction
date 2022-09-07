@@ -16,8 +16,8 @@ const Banner = () => {
       onClick={redirectHandler}
       className="border-8 font-helvetica-condensed uppercase border-white cursor-pointer px-10 py-20 mt-16 text-6xl select-none font-extrabold text-white"
     >
-      <p>Contact</p>
-      <p>us</p>
+      <p>Contact us</p>
+      <p></p>
       <div
         className={`mt-2 bg-white ml-2 h-[5px] duration-200 ${
           hovered ? 'w-20' : 'w-10'

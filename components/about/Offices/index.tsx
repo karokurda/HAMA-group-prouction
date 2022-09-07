@@ -99,7 +99,7 @@ const Offices = () => {
           }}
           
           className="h-screen  object-cover absolute left-0"
-          src="/images/about/office-left.jpg"
+          src="/images/about/DSC00112-01.jpeg"
           alt="waiting"
           style={{ zIndex: -999 }}
         />
@@ -116,7 +116,7 @@ const Offices = () => {
                 : '30%',
           }}
           className="w-1/2 h-screen  object-cover absolute right-0"
-          src="/images/about/WhatsApp Image 2.jpeg"
+          src="/images/about/IMG_2846-Recovered.jpg"
           alt="waiting"
           style={{ zIndex: -999 }}
         />
